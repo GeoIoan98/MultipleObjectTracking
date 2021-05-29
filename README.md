@@ -14,6 +14,8 @@ At the end of each block a score is calculated giving one point to the participa
 
 A CSV file is created as an output that includes the necessary information for every trial. <br>
 
+This code was created for the research purposes of a psychology PhD student, Veronica Hadjipanayi, at the University of Bristol. <br>
+
 <img align="left" width="370" height="300" src=https://user-images.githubusercontent.com/31161911/120081947-13955000-c0b8-11eb-8c1c-4789b98460e4.gif>
 <img align="right" width="370" height="300" src=https://user-images.githubusercontent.com/31161911/120081950-16904080-c0b8-11eb-8ecc-1611df15c9a2.gif>
 
