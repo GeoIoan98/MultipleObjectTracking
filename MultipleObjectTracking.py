@@ -516,7 +516,7 @@ object_colors = ['black']*num_objects
 object_size = 50 # radius
 object_shapes = ['circle']*num_objects
 trial_duration = randint(6,8)
-trial_order = set_up_trial[0:5] # uncommend this line to sub-sample the number of trials
+#trial_order = set_up_trial[0:5] # uncommend this line to sub-sample the number of trials
 fieldnames = ['Number', 'Type', 'Left', 'Right', 'Questioned', 'ERROR_D', 'ACTIVATE_RT', 'RESPONSE_RT', 'SCORE']
 filename = expInfo['SubjID']+'_'+expInfo['Date']+'.csv'
 
